@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/吴恩达机器学习课后笔记/
+!/吴恩达-课件与课后习题/
+
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
